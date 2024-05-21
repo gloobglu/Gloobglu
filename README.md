@@ -1,6 +1,6 @@
 
 Boas vindas ao meu perfil 💙💙
-###Meu nome é **Gloobglu**
+Meu nome é **Gloobglu**
 
 -Estou estudando na Alura
 -Estou me desenvolvendo na linguagem JavaScript
